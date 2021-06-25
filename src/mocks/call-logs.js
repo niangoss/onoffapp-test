@@ -1,20 +1,20 @@
 export const CALL_LOGS = [
     {
         phoneNumber: "33766746033",
-        date: "2021-04-06T22:20:06+0000",
+        date: "2021-06-25T12:20:06+0000",
         id: "1",
         phoneType: "Mobile"
     },
     {
         phoneNumber: "33467678989",
-        date: "2021-05- 06T11:20:06+0000",
+        date: "2021-06-24T13:20:06+0000",
         id: "2",
         phoneType: "Home"
     },
     {
         phoneNumber: "33782075276",
         date: "2021-05-23T20:20:06+0000",
-        id: "4",
+        id: "3",
         phoneType: "Work"
     },
     {
@@ -31,7 +31,7 @@ export const CALL_LOGS = [
     },
     {
         phoneNumber: "33678767574",
-        date: "2021-04- 06T05:20:06+0000",
+        date: "2021-04-06T05:20:06+0000",
         id: "6",
         phoneType: "Mobile"
     },
